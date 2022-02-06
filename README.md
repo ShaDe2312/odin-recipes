@@ -1,0 +1,1 @@
+This is a recipe website, made as a project while I learn from The Odin Project.
